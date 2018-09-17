@@ -1,0 +1,18 @@
+@import url('catalogo.css');
+
+body {
+    background: #f1880e;
+}
+.logo {
+    text-align: center;
+    width:100%;
+}
+.menu{
+    text-align: center;
+    width:100%;
+
+}
+
+.menu img {
+	margin: 500px;
+}

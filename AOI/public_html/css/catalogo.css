@@ -1,0 +1,12 @@
+
+.titulo{
+   text-align: center;
+   width:  100%;
+}
+.tabla{
+   font-weight: bold;
+   font-size: xx-large;
+   border-collapse:collapse;
+   text-align: center;
+   width:80%;
+}
